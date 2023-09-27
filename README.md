@@ -1,3 +1,5 @@
+# Facebook group members scraper
+
 ## How it works
 
 The [Facebook Group Members Scraper](https://apify.com/curious_coder/facebook-scraper) is an Apify actor designed to extract information about members of a Facebook group. With this actor, you can effortlessly gather valuable data from Facebook groups for various purposes, such as market research, lead generation, and competitor analysis.
