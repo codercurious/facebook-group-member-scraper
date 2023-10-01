@@ -2,7 +2,7 @@
 
 ## How it works
 
-The [Facebook Group Members Scraper](https://apify.com/curious_coder/facebook-scraper) is an Apify actor designed to extract information about members of a Facebook group. With this actor, you can effortlessly gather valuable data from Facebook groups for various purposes, such as market research, lead generation, and competitor analysis.
+The [Facebook Group Members Scraper](https://apify.com/curious_coder/facebook-group-member-scraper) is an Apify actor designed to extract information about members of a Facebook group. With this actor, you can effortlessly gather valuable data from Facebook groups for various purposes, such as market research, lead generation, and competitor analysis.
 
 **Main Features:**
 
@@ -85,5 +85,3 @@ Here are some common use cases for Facebook group members data:
 10. **Academic Research and Social Studies:** Researchers and scholars can utilize Facebook group members data to study social dynamics, online behavior, and group interactions. This data can provide valuable insights into topics such as online communities, group formation, and the impact of social media on society.
 
 These are just a few examples of how Facebook group members data can be utilized. The specific use cases depend on the goals and objectives of the individuals or organizations accessing the data.
-
-[Click here to try the Facebook Group Members Scraper](https://apify.com/curious_coder/facebook-scraper) 
