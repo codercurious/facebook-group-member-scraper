@@ -1,8 +1,8 @@
-# Facebook group members scraper
-Interested in using this scraper? Get it here: [Facebook group members scraper](https://apify.com/curious_coder/facebook-group-member-scraper)
+# undefined
+Interested in using this scraper? Get it here: [undefined](https://apify.com/curious_coder/facebook-group-member-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper)
 ## How it works
 
-The Facebook Group Members Scraper is an Apify actor designed to extract information about members of a Facebook group. With this actor, you can effortlessly gather valuable data from Facebook groups for various purposes, such as market research, lead generation, and competitor analysis.
+The Facebook Group Members Scraper is an Apify actor designed to extract information about members of a [Facebook](https://facebook.com) group. With this actor, you can effortlessly gather valuable data from Facebook groups for various purposes, such as market research, lead generation, and competitor analysis.
 
 **Main Features:**
 
@@ -20,6 +20,8 @@ The Facebook Group Members Scraper is an Apify actor designed to extract informa
 
 7. **Automatic Retry and Error Handling:** In case of temporary issues like network failures or timeouts, the actor has built-in automatic retry functionality. It intelligently handles errors to ensure a smooth and uninterrupted scraping experience.
 
+**You might also be interested in**: [Facebook group post scraper](https://apify.com/curious_coder/facebook-post-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper) | [Facebook comment scraper](https://apify.com/curious_coder/facebook-comment-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper) | [Linkedin group members scraper](https://apify.com/curious_coder/linkedin-group-members-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper) | [Twitter likes scraper](https://apify.com/curious_coder/twitter-likes-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper)| [Other scrapers](https://apify.com/curious_coder?fpr=ve081&fp_sid=github_facebook-group-member-scraper) |
+
 ## Getting started
 
 1. Install [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) chrome extension 
@@ -33,8 +35,6 @@ The Facebook Group Members Scraper is an Apify actor designed to extract informa
 
 The Facebook Group Members Scraper actor is an invaluable tool for businesses, researchers, and marketers seeking to gain insights from Facebook groups. By automating the data extraction process, it simplifies the task of collecting member information and empowers you to make data-driven decisions based on the extracted data.
 
-💡 **Related scrapers:** [Facebook profile scraper](https://apify.com/curious_coder/facebook-profile-scraper) | [Facebook posts scraper](https://apify.com/curious_coder/facebook-post-scraper) | [Twitter likes scraper](https://apify.com/curious_coder/twitter-likes-scraper) | [Other useful scrapers](https://apify.com/curious_coder)
-
 ## Sample data
 
 Here is the sample json output of this actor:
@@ -45,20 +45,59 @@ Here is the sample json output of this actor:
 	"memberTags": [
 		"NEW_MEMBER"
 	],
-	"joinedAt": 1687783257,
-	"bio": "Computer Graphic Designer at Agencja Rozwoju Miasta Siedlce Sp. z o.o.",
-	"name": "Paweł Frankowski",
-	"userId": "1255692206",
+	"joinedAt": 1695975491,
+	"bio": {
+		"delight_ranges": [],
+		"image_ranges": [],
+		"inline_style_ranges": [],
+		"aggregated_ranges": [],
+		"ranges": [],
+		"color_ranges": [],
+		"text": "Helping health and wellness eCommerce brands scale with Facebook ads."
+	},
+	"name": "Krystal Childrey",
+	"userId": "651067058",
 	"friendshipStatus": "CAN_REQUEST",
-	"groupMemberId": "10231593041669879",
+	"groupMemberId": "10161454296852059",
 	"isVerified": false,
-	"profileUrl": "https://www.facebook.com/pf.frankowski",
-	"profilePicture": "https://scontent.fixe2-1.fna.fbcdn.net/v/t39.30808-1/277169822_10228513046911935_5588196689302075415_n.jpg?stp=c15.0.60.60a_cp0_dst-jpg_p60x60&_nc_cat=105&cb=99be929b-59f725be&ccb=1-7&_nc_sid=7206a8&_nc_ohc=PmLjfK-voKMAX8kynK0&_nc_ht=scontent.fixe2-1.fna&oh=00_AfAKVRHuVlLMJfHi9qWNzf6hptvsqHdnFf-MyJ248-lkFg&oe=649DD60F"
+	"profileUrl": "https://www.facebook.com/krystalc1291",
+	"profilePicture": "https://scontent.fixe2-1.fna.fbcdn.net/v/t39.30808-1/334557221_1952626645086555_35727943821351091_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=107&ccb=1-7&_nc_sid=fe8171&_nc_ohc=6VdSw53IyI4AX_F4ZVW&_nc_ht=scontent.fixe2-1.fna&oh=00_AfBrPCnT43nhA7oMIGksNTSTqJ-FT5z3P_ZZhrYSvnNQtg&oe=652AF156",
+	"work": {
+		"text": "Founder at Soulwave Digital",
+		"icon": "https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/bOeeMWZwJ9x.png",
+		"id": "100052522136414",
+		"url": "https://www.facebook.com/soulwavedigital",
+		"short_name": "Soulwave Digital"
+	},
+	"current_city": {
+		"text": "Lives in Seattle, Washington",
+		"icon": "https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/2HSjONuOSNc.png",
+		"id": "110843418940484",
+		"url": "https://www.facebook.com/Seattle-Washington-110843418940484/"
+	},
+	"other_account": {
+		"text": "soulwavedigital",
+		"icon": "https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/Rk9juj93tWY.png",
+		"id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5pbnN0YWdyYW0uY29tL3NvdWx3YXZlZGlnaXRhbDo6Ojo=",
+		"url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fsoulwavedigital&h=AT3LR5jGM1_tXx34daEECAQCz_YJ01q_wj7axhktge9D8pMMn5R_a3WnLyPVVrVy6IkC5j7yrWRg7Ehw_IQt1SOVPUxYTRwrgzieNdTrMFLqwEv5AQSnHg1dMME8yn_8Ta49AhRsfw&s=1",
+		"external_url": "https://www.instagram.com/soulwavedigital"
+	},
+	"website": {
+		"text": "soulwavedigital.com",
+		"icon": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/0ho4nG26KLt.png",
+		"id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2wuZmFjZWJvb2suY29tL2wucGhwP3U9aHR0cHMlM0ElMkYlMkZzb3Vsd2F2ZWRpZ2l0YWwuY29tJTJGJmg9QVQxYnBQTFZjNkl1MHNla3J4VkdZRGtGR1ZlQ1dVOFBHTkFnNDQtSHBYdWIxYW9yQmg3YUpQLWRDTUtOcjV5eHlsWlM1ZERlcktQcVM3WmNKdUZkM2hpbWVWc1FDSU1iUTcwZDlKSHEyR2ZZcDduNTNBUHhha0NXMVxiRHl5cVZcYkhWbTRza0dlTldZJnM9MTo6Ojo=",
+		"url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fsoulwavedigital.com%2F&h=AT2rNVUNuNIIoMz8BwEQdeBB_TierfPUiph7lE_TwfD8vT__xw9JBW85HkZjAv8O5wvs3T41PdAAInXAX6ABj50rRP4FuFPR5P_oZ_M2aie1v2ePaqx1M_9APiE9bywr15xPKCKKxw&s=1",
+		"external_url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fsoulwavedigital.com%2F&h=AT1bpPLVc6Iu0sekrxVGYDkFGVeCWU8PGNAg44-HpXub1aorBh7aJP-dCMKNr5yxylZS5dDerKPqS7ZcJuFd3himeVsQCIMbQ70d9JHq2GfYp7n53APxakCW1_DyyqV_HVm4skGeNWY&s=1"
+	},
+	"Website": "https://soulwavedigital.com/",
+	"Instagram": "soulwavedigital",
+	"Gender": "Female",
+	"url": "https://www.facebook.com/krystalc1291",
+	"bioText": "Helping health and wellness eCommerce brands scale with Facebook ads."
 }
-
 ```
 
-If you want to scrape more details about profiles such as website, company, contact info, etc, use [Facebook profile scraper](https://apify.com/curious_coder/facebook-profile-scraper)
+If you want to scrape more details about profiles such as website, company, contact info, etc, use [Facebook profile scraper](https://apify.com/curious_coder/facebook-profile-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper)
 
 ## Use cases
 
@@ -85,3 +124,11 @@ Here are some common use cases for Facebook group members data:
 10. **Academic Research and Social Studies:** Researchers and scholars can utilize Facebook group members data to study social dynamics, online behavior, and group interactions. This data can provide valuable insights into topics such as online communities, group formation, and the impact of social media on society.
 
 These are just a few examples of how Facebook group members data can be utilized. The specific use cases depend on the goals and objectives of the individuals or organizations accessing the data.
+
+## Frequently asked questions
+
+## What is the limit on number of members that can be scraped ? 
+Unlike other scrapers like phantombuster which have limitations on number of members scraped to 5k-10k, this tool doesn't have any limitations. It can scrape all members of a group. It can also resume scraping from where it stopped, which makes it best tool for scraping large groups
+
+## Does it extract emails address or phone numbers of group members ?
+You can use [facebook profile scraper](https://apify.com/curious_coder/facebook-profile-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper) to scrape complete profile including email and phone numbers. Once have the list of group members, just copy the profile urls and pass them to facebook profile scraper
