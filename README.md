@@ -1,5 +1,6 @@
-# undefined
-Interested in using this scraper? Get it here: [undefined](https://apify.com/curious_coder/facebook-group-member-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper)
+# Facebook group members scraper
+Interested in using this scraper? Get it here: [Facebook group members scraper](https://apify.com/curious_coder/facebook-group-member-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper)
+
 ## How it works
 
 The Facebook Group Members Scraper is an Apify actor designed to extract information about members of a [Facebook](https://facebook.com) group. With this actor, you can effortlessly gather valuable data from Facebook groups for various purposes, such as market research, lead generation, and competitor analysis.
