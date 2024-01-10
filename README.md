@@ -21,7 +21,16 @@ The Facebook Group Members Scraper is an Apify actor designed to extract informa
 
 7. **Automatic Retry and Error Handling:** In case of temporary issues like network failures or timeouts, the actor has built-in automatic retry functionality. It intelligently handles errors to ensure a smooth and uninterrupted scraping experience.
 
-**You might also be interested in**: [Facebook group post scraper](https://apify.com/curious_coder/facebook-post-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper) | [Facebook comment scraper](https://apify.com/curious_coder/facebook-comment-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper) | [Linkedin group members scraper](https://apify.com/curious_coder/linkedin-group-members-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper) | [Twitter likes scraper](https://apify.com/curious_coder/twitter-likes-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper)| [Other scrapers](https://apify.com/curious_coder?fpr=ve081&fp_sid=github_facebook-group-member-scraper) |
+## You might also be interested in
+- [Facebook group post scraper](https://apify.com/curious_coder/facebook-post-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper)
+- [Facebook comment scraper](https://apify.com/curious_coder/facebook-comment-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper)
+- [Other scrapers](https://apify.com/curious_coder?fpr=ve081&fp_sid=github_facebook-group-member-scraper)
+
+## Apify proxy
+
+This facebook group members crawler uses [Apify proxy](https://apify.com/proxy?fpr=ve081) as the proxy solution. Apify has a free plan that gives you free credits worth $5 per month which makes it ideal for the development phase, but can be easily scaled up to millions of pages per month if needs be.
+
+You can [sign up for a free account here](https://apify.com/pricing?fpr=ve081)
 
 ## Getting started
 
@@ -99,6 +108,15 @@ Here is the sample json output of this actor:
 ```
 
 If you want to scrape more details about profiles such as website, company, contact info, etc, use [Facebook profile scraper](https://apify.com/curious_coder/facebook-profile-scraper?fpr=ve081&fp_sid=github_facebook-group-member-scraper)
+
+## Integrations
+You can use [Make](https://www.make.com/en/register?pc=growthhack) to integrate apollo leads to any other SaaS platform by designing your own automation flows.
+
+
+## Facebook group members API
+
+The actor stores results in a dataset. You can export data in various formats such as CSV, JSON, XLS, etc. 
+You can scrape and access data on demand using API. For more information, Go to [Facebook group members API integration](https://apify.com/curious_coder/facebook-group-member-scraper/api/endpoints?fpr=ve081) page
 
 ## Use cases
 
